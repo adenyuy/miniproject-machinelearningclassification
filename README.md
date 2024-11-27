@@ -56,3 +56,6 @@ The classification focuses on converting the dataset’s numerical target into a
    - Decision tree visualization provides a starting point for understanding how features influence outcomes, making the model suitable for interpretability-focused applications.
 
 ---
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email :marvinugraha@gmail.com and https://www.linkedin.com/in/marvinugraha/
+
+#machinelearning #classification #diabetes
